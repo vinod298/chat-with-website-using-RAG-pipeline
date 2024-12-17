@@ -1,0 +1,10 @@
+faiss-cpu
+numpy
+pandas
+requests
+beautifulsoup4
+google.generativeai
+chromadb
+flask
+flask_cors
+sentence-transformers
