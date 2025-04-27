@@ -15,8 +15,8 @@ Follow these steps to set up and run the project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/danyQe/WEBSITE_SUMMARISER.git
-   cd WEBSITE_SUMMARISER
+   git clone https://github.com/vinod298/chat-with-website-using-RAG-pipeline.git
+   cd chat-with-website-using-RAG-pipeline
    ```
 
 2. Set up a virtual environment:
